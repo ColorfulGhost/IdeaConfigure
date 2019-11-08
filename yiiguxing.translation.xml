@@ -1,0 +1,78 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="QUESTION thinking Method" />
+      <item value="QUESTION response Count" />
+      <item value="investigation Method" />
+      <item value="include" />
+      <item value="resources" />
+      <item value="already defined" />
+      <item value="classpath Prefix" />
+      <item value="includes" />
+      <item value="active By Default" />
+      <item value="surefire" />
+      <item value="archive" />
+      <item value="exclude" />
+      <item value="maven" />
+      <item value="jacoco" />
+      <item value="dependency Sets" />
+      <item value="dependency" />
+      <item value="was cached in the local repository, resolution will not be reattempted until the update interval of repo1-cache has elapsed or updates are forced" />
+      <item value="templates" />
+      <item value="updates" />
+      <item value="forced" />
+      <item value="press" />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources (default-resources) on project quality-testing: Unable to parse configuration of mojo org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources for parameter resource: Cannot find 'resource' in class org.apache.maven.model.Resource" />
+      <item value="frontend" />
+      <item value="Failure to find com.iflytek.edu:ZX-root:pom:1.0.1005-SNAPSHOT in http://maven.iflytek.com:8081/nexus/content/groups/public was cached in the local repository, resolution will not be reattempted until the update interval of repo1-cache has elapsed or updates are forced" />
+      <item value="excludes" />
+      <item value="stdout" />
+      <item value="Command Line Runner" />
+      <item value="disabled, not registered or in blacklist" />
+      <item value="Lifecycle Base" />
+      <item value="Servlet Context Initializer" />
+      <item value="* this is a helper java class that provides an alternative to creating a web.xml. * this will be invoked only when the application is deployed to a servlet container like tomcat, jboss etc." />
+      <item value="* This is a helper Java class that provides an alternative to creating a web.xml. * This will be invoked only when the application is deployed to a Servlet container like Tomcat, JBoss etc." />
+      <item value="The list of webResources we want to transfer." />
+      <item value="Whether or not to fail the build if the &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file is missing. Set to &amp;lt;code&amp;gt;false&amp;lt;/code&amp;gt; if you&#10;want your WAR built without a &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file. This may be useful if you are building an overlay that&#10;has no web.xml file." />
+      <item value="add Default Specification Entries" />
+      <item value="* @param create&#9;&lt;code&gt;true&lt;/code&gt; to create * a new session for this request if necessary; * &lt;code&gt;false&lt;/code&gt; to return &lt;code&gt;null&lt;/code&gt; * if there's no current session" />
+      <item value="assembly" />
+      <item value="&lt;description&gt;Assemble an application bundle or distribution using an assembly descriptor from the command line. This goal will&#10;force Maven to build all included POMs up to the &amp;lt;code&amp;gt;package&amp;lt;/code&amp;gt; phase BEFORE the assembly is processed. &amp;lt;br/&amp;gt; &amp;lt;b&amp;gt;NOTE:&amp;lt;/b&amp;gt; This goal should ONLY be run from the command line, and if building a multimodule project it should be&#10;used from the root POM. Use the &amp;lt;code&amp;gt;assembly:single&amp;lt;/code&amp;gt; goal for binding your assembly to the lifecycle. &amp;lt;br/&amp;gt;&lt;/description&gt;" />
+      <item value="PROVIDED" />
+      <item value="y" />
+      <item value="get Parameter" />
+      <item value="primary school" />
+      <item value="senior middle school" />
+      <item value="junior high school" />
+      <item value="小学" />
+      <item value="ALIGN CENTER" />
+      <item value="CENTER SELECTION" />
+      <item value="Alignment" />
+      <item value="角色" />
+      <item value="alert" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="347" />
+        <entry key="ICELANDIC" value="2" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="KANNADA" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SPANISH" value="3" />
+        <entry key="GREEK" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Fira Code Retina" />
+    <option name="primaryFontFamily" value="Fira Code Retina" />
+  </component>
+</application>
