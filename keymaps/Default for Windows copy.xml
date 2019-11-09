@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
