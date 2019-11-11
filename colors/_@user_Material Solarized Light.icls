@@ -4,7 +4,7 @@
     <property name="created">2019-11-11T09:45:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-11T09:51:16</property>
+    <property name="modified">2019-11-11T09:58:19</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -26,29 +26,30 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
     <option name="ERROR_HINT" value="fdd4c4" />
-    <option name="FILESTATUS_ADDED" value="859900" />
-    <option name="FILESTATUS_COPIED" value="2aa198" />
-    <option name="FILESTATUS_DELETED" value="b58900" />
-    <option name="FILESTATUS_HIJACKED" value="d33682" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_ADDED" value="8f9d6a" />
+    <option name="FILESTATUS_COPIED" value="8f9d6a" />
+    <option name="FILESTATUS_DELETED" value="a7a7a7" />
+    <option name="FILESTATUS_HIJACKED" value="47bc9b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_MERGED" value="6c71c4" />
-    <option name="FILESTATUS_MODIFIED" value="2aa198" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
-    <option name="FILESTATUS_OBSOLETE" value="b58900" />
-    <option name="FILESTATUS_RENAMED" value="6c71c4" />
-    <option name="FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="FILESTATUS_UNKNOWN" value="d33682" />
-    <option name="FILESTATUS_addedOutside" value="d33682" />
-    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
+    <option name="FILESTATUS_MERGED" value="9b859d" />
+    <option name="FILESTATUS_MODIFIED" value="f9ee98" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9ee98" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9ee98" />
+    <option name="FILESTATUS_OBSOLETE" value="a7a7a7" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
+    <option name="FILESTATUS_SWITCHED" value="9b859d" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="8f9d6a" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="eee8d5" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
