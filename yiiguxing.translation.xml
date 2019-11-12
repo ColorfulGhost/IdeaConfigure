@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单个" />
       <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="17:05:35.439 WARN o.s.c.a.ConfigurationClassEnhancer ConfigurationClassEnhancer.java:357 org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor intercept - @Bean method EpasJavaConfig.epasConfig is non-static and returns an object assignable to Spring's BeanFactoryPostProcessor interface. This will result in a failure to process annotations such as @Autowired, @Resource and @PostConstruct within the method's declaring @Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details. 17:05:41.368 ERROR c.a.d.r.i.RegistryDirectory Log4jLogger.java:90 com.alibaba.dubbo.common.logger.log4j.Log4jLogger error - [DUBBO] convert router url to router error, url: utag://0.0.0.0/com.iflytek.gxh.access.control.dubbo.api.TokenService?category=routers&amp;dynamic=false&amp;priority=0&amp;rule=192.168.57.77%3A15556&amp;runtime=true, dubbo version: 1.0.4.1001, current host: 10.5.112.61 java.lang.IllegalStateException: No such extension com.alibaba.dubbo.rpc.cluster.RouterFactory by name utag" />
       <item value="QUESTION thinking Method" />
@@ -50,7 +51,6 @@
       <item value="小学" />
       <item value="ALIGN CENTER" />
       <item value="CENTER SELECTION" />
-      <item value="Alignment" />
     </histories>
     <option name="languageScores">
       <map>
