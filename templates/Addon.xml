@@ -1,0 +1,16 @@
+<templateSet group="Addon">
+  <template name="add" value="/**&#10; * @Description &#10; * @author wlwang3&#10; * @param $param$&#10; * @return $return$&#10; * @date $date$&#10; */" description="文档" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=(i ==0 ?'' : '* @param ') + params[i] + ((i &lt; params.size() - 1) ? '\\n\\t\\t ' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(YYYY-MM-dd)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="LOGGER" value="private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);" description="LOGGER" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
