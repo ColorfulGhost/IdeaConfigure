@@ -1,10 +1,10 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="Git.Commit.And.Push.Executor">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="SaveAll" />
 </keymap>
