@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
+      <item value="Filed" />
+      <item value="Flied" />
+      <item value="requirement" />
+      <item value="需求" />
+      <item value="需要" />
       <item value="Business" />
       <item value="Import Generator Runnable" />
       <item value="shutdown" />
@@ -45,17 +51,11 @@
       <item value="The list of webResources we want to transfer." />
       <item value="Whether or not to fail the build if the &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file is missing. Set to &amp;lt;code&amp;gt;false&amp;lt;/code&amp;gt; if you&#10;want your WAR built without a &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file. This may be useful if you are building an overlay that&#10;has no web.xml file." />
       <item value="add Default Specification Entries" />
-      <item value="* @param create&#9;&lt;code&gt;true&lt;/code&gt; to create * a new session for this request if necessary; * &lt;code&gt;false&lt;/code&gt; to return &lt;code&gt;null&lt;/code&gt; * if there's no current session" />
-      <item value="assembly" />
-      <item value="&lt;description&gt;Assemble an application bundle or distribution using an assembly descriptor from the command line. This goal will&#10;force Maven to build all included POMs up to the &amp;lt;code&amp;gt;package&amp;lt;/code&amp;gt; phase BEFORE the assembly is processed. &amp;lt;br/&amp;gt; &amp;lt;b&amp;gt;NOTE:&amp;lt;/b&amp;gt; This goal should ONLY be run from the command line, and if building a multimodule project it should be&#10;used from the root POM. Use the &amp;lt;code&amp;gt;assembly:single&amp;lt;/code&amp;gt; goal for binding your assembly to the lifecycle. &amp;lt;br/&amp;gt;&lt;/description&gt;" />
-      <item value="PROVIDED" />
-      <item value="y" />
-      <item value="get Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="361" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
