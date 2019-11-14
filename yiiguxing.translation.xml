@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Business" />
       <item value="Import Generator Runnable" />
       <item value="shutdown" />
       <item value="Caused by: org.springframework.core.NestedIOException: ASM ClassReader failed to parse class file - probably due to a new Java class file version that isn't supported yet: file [E:\tkzj-brush-job\target\classes\service\impl\TaskServiceImpl.class]; nested exception is java.lang.IllegalArgumentException" />
@@ -50,12 +51,11 @@
       <item value="PROVIDED" />
       <item value="y" />
       <item value="get Parameter" />
-      <item value="primary school" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
