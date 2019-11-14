@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Catalog" />
       <item value="字段" />
       <item value="Filed" />
       <item value="Flied" />
@@ -50,12 +51,11 @@
       <item value="* This is a helper Java class that provides an alternative to creating a web.xml. * This will be invoked only when the application is deployed to a Servlet container like Tomcat, JBoss etc." />
       <item value="The list of webResources we want to transfer." />
       <item value="Whether or not to fail the build if the &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file is missing. Set to &amp;lt;code&amp;gt;false&amp;lt;/code&amp;gt; if you&#10;want your WAR built without a &amp;lt;code&amp;gt;web.xml&amp;lt;/code&amp;gt; file. This may be useful if you are building an overlay that&#10;has no web.xml file." />
-      <item value="add Default Specification Entries" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
