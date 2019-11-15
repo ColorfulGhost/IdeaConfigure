@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="10:56:22.518 ERROR o.s.w.c.ContextLoader ContextLoader.java:319 org.springframework.web.context.ContextLoader initWebApplicationContext - Context initialization failed org.springframework.beans.factory.BeanDefinitionStoreException: Unexpected exception parsing XML document from file [E:\tms\target\classes\conf\applicationContext_service.xml]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'topicUtil' for bean class [com.zhixue.tms.resource.util.TopicUtil] conflicts with existing, non-compatible bean definition of same name and class [com.zhixue.tms.edit.util.TopicUtil]" />
+      <item value="compatible" />
       <item value="auto Select Topic" />
       <item value="align" />
       <item value="锚点对标" />
@@ -49,13 +51,11 @@
       <item value="excludes" />
       <item value="stdout" />
       <item value="Command Line Runner" />
-      <item value="disabled, not registered or in blacklist" />
-      <item value="Lifecycle Base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
