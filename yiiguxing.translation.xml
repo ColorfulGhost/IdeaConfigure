@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="属性" />
+      <item value="attrbute" />
+      <item value="attrbutes" />
       <item value="10:56:22.518 ERROR o.s.w.c.ContextLoader ContextLoader.java:319 org.springframework.web.context.ContextLoader initWebApplicationContext - Context initialization failed org.springframework.beans.factory.BeanDefinitionStoreException: Unexpected exception parsing XML document from file [E:\tms\target\classes\conf\applicationContext_service.xml]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'topicUtil' for bean class [com.zhixue.tms.resource.util.TopicUtil] conflicts with existing, non-compatible bean definition of same name and class [com.zhixue.tms.edit.util.TopicUtil]" />
       <item value="compatible" />
       <item value="auto Select Topic" />
@@ -48,14 +51,11 @@
       <item value="Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources (default-resources) on project quality-testing: Unable to parse configuration of mojo org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources for parameter resource: Cannot find 'resource' in class org.apache.maven.model.Resource" />
       <item value="frontend" />
       <item value="Failure to find com.iflytek.edu:ZX-root:pom:1.0.1005-SNAPSHOT in http://maven.iflytek.com:8081/nexus/content/groups/public was cached in the local repository, resolution will not be reattempted until the update interval of repo1-cache has elapsed or updates are forced" />
-      <item value="excludes" />
-      <item value="stdout" />
-      <item value="Command Line Runner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="370" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
