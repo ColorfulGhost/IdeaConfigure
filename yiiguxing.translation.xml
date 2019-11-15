@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXSIT" />
+      <item value="机场" />
+      <item value="机场 topicInfo.setSuspectedRepeatId(appQuestion.getSuspected" />
       <item value="属性" />
       <item value="attrbute" />
       <item value="attrbutes" />
@@ -48,14 +51,11 @@
       <item value="updates" />
       <item value="forced" />
       <item value="press" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources (default-resources) on project quality-testing: Unable to parse configuration of mojo org.apache.maven.plugins:maven-resources-plugin:3.1.0:copy-resources for parameter resource: Cannot find 'resource' in class org.apache.maven.model.Resource" />
-      <item value="frontend" />
-      <item value="Failure to find com.iflytek.edu:ZX-root:pom:1.0.1005-SNAPSHOT in http://maven.iflytek.com:8081/nexus/content/groups/public was cached in the local repository, resolution will not be reattempted until the update interval of repo1-cache has elapsed or updates are forced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
