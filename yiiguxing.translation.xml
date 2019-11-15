@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Select Topic" />
       <item value="align" />
       <item value="锚点对标" />
       <item value="锚点" />
@@ -50,12 +51,11 @@
       <item value="Command Line Runner" />
       <item value="disabled, not registered or in blacklist" />
       <item value="Lifecycle Base" />
-      <item value="Servlet Context Initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
