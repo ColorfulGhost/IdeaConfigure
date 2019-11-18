@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
+      <item value="prase" />
       <item value="搜索" />
       <item value="Access Util" />
       <item value="EXSIT" />
@@ -49,16 +51,15 @@
       <item value="dependency Sets" />
       <item value="dependency" />
       <item value="was cached in the local repository, resolution will not be reattempted until the update interval of repo1-cache has elapsed or updates are forced" />
-      <item value="templates" />
-      <item value="updates" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="ENGLISH" value="374" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="KANNADA" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="2" />
