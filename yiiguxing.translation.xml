@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anchortopic" />
+      <item value="category" />
       <item value="suspected Repeat Question" />
       <item value="parse" />
       <item value="prase" />
@@ -49,13 +51,11 @@
       <item value="exclude" />
       <item value="maven" />
       <item value="jacoco" />
-      <item value="dependency Sets" />
-      <item value="dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
