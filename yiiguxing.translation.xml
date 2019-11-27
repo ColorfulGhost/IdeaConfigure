@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotation Processor Paths" />
       <item value="allow Script Access" />
       <item value="exist Machine Anchor Ponit" />
       <item value="has Exist Machine Anchor Ponit" />
@@ -50,12 +51,11 @@
       <item value="classpath Prefix" />
       <item value="includes" />
       <item value="active By Default" />
-      <item value="surefire" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="384" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
