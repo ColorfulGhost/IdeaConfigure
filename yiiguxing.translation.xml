@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no more data available" />
+      <item value="available" />
+      <item value="no more data available." />
+      <item value="Seconds" />
       <item value="annotation Processor Paths" />
       <item value="allow Script Access" />
       <item value="exist Machine Anchor Ponit" />
@@ -47,15 +51,11 @@
       <item value="investigation Method" />
       <item value="include" />
       <item value="resources" />
-      <item value="already defined" />
-      <item value="classpath Prefix" />
-      <item value="includes" />
-      <item value="active By Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
