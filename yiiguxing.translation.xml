@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="companion" />
+      <item value="companion object" />
       <item value="no more data available" />
       <item value="available" />
       <item value="no more data available." />
@@ -49,13 +51,11 @@
       <item value="QUESTION thinking Method" />
       <item value="QUESTION response Count" />
       <item value="investigation Method" />
-      <item value="include" />
-      <item value="resources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
