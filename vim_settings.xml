@@ -1,0 +1,137 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/TmsResourceServiceImpl.java" timestamp="1575525639843">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/DataProcessingServiceImpl.java" timestamp="1575525649419">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/conf/EpasConfig.java" timestamp="1575526315858" />
+      <file name="E:/tms/src/main/java/com/zhixue/tms/resource/dto/ResourceDto.java" timestamp="1575525597274">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/BaseServiceImpl.java" timestamp="1575525643822">
+        <mark key="[" line="564" column="0" />
+        <mark key="]" line="564" column="0" />
+        <mark key="." line="564" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/ChapterServiceImpl.java" timestamp="1575525654024">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/TopicMessageServiceImpl.java" timestamp="1575525651575">
+        <mark key="[" line="795" column="0" />
+        <mark key="]" line="795" column="0" />
+        <mark key="." line="795" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" timestamp="1575526449615">
+        <mark key="'" line="1223" column="4" />
+        <mark key="[" line="2580" column="0" />
+        <mark key="]" line="1223" column="0" />
+        <mark key="." line="1223" column="0" />
+        <mark key="^" line="1223" column="23" />
+      </file>
+      <file name="E:/tms/src/main/java/com/zhixue/tms/resource/controller/ExamController.java" timestamp="1575525632018">
+        <mark key="[" line="442" column="0" />
+        <mark key="]" line="442" column="0" />
+        <mark key="." line="442" column="0" />
+      </file>
+      <file name="E:/tms/src/main/java/com/zhixue/tms/edit/service/impl/EditTopicServiceImpl.java" timestamp="1575525589140">
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="." line="397" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="95" column="0" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="115" column="0" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="1204" column="25" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="1203" column="4" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="2580" column="63" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="875" column="5" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="872" column="5" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="1223" column="4" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlRHRvLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8S25vd2xlZGdlVHJlZUR0bz4oKSk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlRHRvLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8S25vd2xlZGdlVHJlZUR0bz4oKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0cmVlRHRvLmdldENoaWxkcmVuKCkgPT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXROYW1lKG5vZGUuZ2V0TmFtZSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXRDb2RlKG5vZGUuZ2V0Q29kZSgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtub3dsZWRnZVRyZWVEdG8gY2hpbGRLbm93bGVkZ2VUcmVlID0gbmV3IEtub3dsZWRnZVRyZWVEdG8oKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkobm9kZS5nZXRQYXJlbnRDb2RlKCkpICYmIChub2RlLmdldFBhcmVudENvZGUoKS5lcXVhbHModHJlZUR0by5nZXRDb2RlKCkpKSkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFRyZWVOb2RlIG5vZGUgOiB0cmVlTm9kZXMpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGlsZHJlbktub3dsZWRnZShMaXN0PFRyZWVOb2RlPiB0cmVlTm9kZXMsIEtub3dsZWRnZVRyZWVEdG8gdHJlZUR0bykgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>paperService</text>
+      </register>
+      <register name="/" type="4">
+        <text>Title</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Title</last-search>
+      <last-offset />
+      <last-pattern>Title</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ttest</entry>
+        <entry>Title</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
