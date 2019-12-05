@@ -13,7 +13,7 @@
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/conf/EpasConfig.java" timestamp="1575526315858" />
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/conf/EpasConfig.java" timestamp="1575526548366" />
       <file name="E:/tms/src/main/java/com/zhixue/tms/resource/dto/ResourceDto.java" timestamp="1575525597274">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="334" column="0" />
@@ -34,12 +34,18 @@
         <mark key="]" line="795" column="0" />
         <mark key="." line="795" column="0" />
       </file>
-      <file name="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" timestamp="1575526449615">
-        <mark key="'" line="1223" column="4" />
+      <file name="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" timestamp="1575526789948">
+        <mark key="'" line="4075" column="8" />
         <mark key="[" line="2580" column="0" />
-        <mark key="]" line="1223" column="0" />
-        <mark key="." line="1223" column="0" />
-        <mark key="^" line="1223" column="23" />
+        <mark key="]" line="871" column="12" />
+        <mark key="." line="871" column="12" />
+        <mark key="^" line="871" column="12" />
+      </file>
+      <file name="E:/tms/src/main/java/com/iflytek/edu/zx/tms/service/impl/TopicEditServiceImpl.java" timestamp="1575526745148">
+        <mark key="[" line="689" column="68" />
+        <mark key="]" line="673" column="51" />
+        <mark key="." line="673" column="51" />
+        <mark key="^" line="673" column="51" />
       </file>
       <file name="E:/tms/src/main/java/com/zhixue/tms/resource/controller/ExamController.java" timestamp="1575525632018">
         <mark key="[" line="442" column="0" />
@@ -61,49 +67,54 @@
       <jump line="875" column="5" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
       <jump line="872" column="5" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
       <jump line="1223" column="4" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="882" column="30" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="871" column="13" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="879" column="30" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="472" column="46" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
+      <jump line="4075" column="8" filename="E:/tms/src/main/java/com/zhixue/tms/resource/service/impl/TopicsEditServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlRHRvLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8S25vd2xlZGdlVHJlZUR0bz4oKSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlRHRvLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8S25vd2xlZGdlVHJlZUR0bz4oKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0cmVlRHRvLmdldENoaWxkcmVuKCkgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcHMgPSB0Zy5xdWFwcHMgPSB0Zy5xdWVzdGlvbkxpc3Q7Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXROYW1lKG5vZGUuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlRHRvLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8S25vd2xlZGdlVHJlZUR0bz4oKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXRDb2RlKG5vZGUuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0cmVlRHRvLmdldENoaWxkcmVuKCkgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtub3dsZWRnZVRyZWVEdG8gY2hpbGRLbm93bGVkZ2VUcmVlID0gbmV3IEtub3dsZWRnZVRyZWVEdG8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXROYW1lKG5vZGUuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkobm9kZS5nZXRQYXJlbnRDb2RlKCkpICYmIChub2RlLmdldFBhcmVudENvZGUoKS5lcXVhbHModHJlZUR0by5nZXRDb2RlKCkpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkS25vd2xlZGdlVHJlZS5zZXRDb2RlKG5vZGUuZ2V0Q29kZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFRyZWVOb2RlIG5vZGUgOiB0cmVlTm9kZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtub3dsZWRnZVRyZWVEdG8gY2hpbGRLbm93bGVkZ2VUcmVlID0gbmV3IEtub3dsZWRnZVRyZWVEdG8oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGlsZHJlbktub3dsZWRnZShMaXN0PFRyZWVOb2RlPiB0cmVlTm9kZXMsIEtub3dsZWRnZVRyZWVEdG8gdHJlZUR0bykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkobm9kZS5nZXRQYXJlbnRDb2RlKCkpICYmIChub2RlLmdldFBhcmVudENvZGUoKS5lcXVhbHModHJlZUR0by5nZXRDb2RlKCkpKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFRyZWVOb2RlIG5vZGUgOiB0cmVlTm9kZXMpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>paperService</text>
+        <text>estionList;</text>
       </register>
       <register name="/" type="4">
-        <text>Title</text>
+        <text>getQuestionByIdOrNumber</text>
       </register>
     </registers>
     <search>
-      <last-search>Title</last-search>
+      <last-search>getQuestionByIdOrNumber</last-search>
       <last-offset />
-      <last-pattern>Title</last-pattern>
+      <last-pattern>getQuestionByIdOrNumber</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -111,6 +122,7 @@
       <history-search>
         <entry>ttest</entry>
         <entry>Title</entry>
+        <entry>getQuestionByIdOrNumber</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
@@ -131,6 +143,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
