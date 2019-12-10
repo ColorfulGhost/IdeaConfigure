@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Log Record Aspect" />
+      <item value="Auth Log Util" />
       <item value="Ability Accomplishment" />
       <item value="defining a scoped proxy for this bean if you intend to refer to it from a singleton; nested exception is java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet/DispatcherPortlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
       <item value="[INFO] Total time: 17.527 s [INFO] Finished at: 2019-12-06T15:43:04+08:00" />
@@ -49,13 +51,11 @@
       <item value="锚点对标" />
       <item value="锚点" />
       <item value="锚点对标选题" />
-      <item value="set Catalog" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -68,6 +68,7 @@
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
