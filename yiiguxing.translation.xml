@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="功能" />
       <item value="on Group Increase Notice" />
       <item value="MESSAGE IGNORE" />
       <item value="MESSAGE BLOCK" />
@@ -50,11 +51,10 @@
       <item value="annotation Processor Paths" />
       <item value="allow Script Access" />
       <item value="exist Machine Anchor Ponit" />
-      <item value="has Exist Machine Anchor Ponit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
+        <entry key="CHINESE" value="423" />
         <entry key="ENGLISH" value="423" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="2" />
