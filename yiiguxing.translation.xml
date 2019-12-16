@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Thrown when the Java Virtual Machine cannot allocate an object * because it is out of memory, and no more memory could be made * available by the garbage collector. * * {@code OutOfMemoryError} objects may be constructed by the virtual * machine as if {@linkplain Throwable#Throwable(String, Throwable, * boolean, boolean) suppression were disabled and/or the stack trace was not * writable}. * * @author unascribed * @since JDK1.0 */" />
       <item value="whose" />
       <item value="功能" />
       <item value="on Group Increase Notice" />
@@ -50,12 +51,11 @@
       <item value="no more data available." />
       <item value="Seconds" />
       <item value="annotation Processor Paths" />
-      <item value="allow Script Access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
