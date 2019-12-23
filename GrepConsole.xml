@@ -30,7 +30,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
+                              <option name="color" value="-16776449" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -43,7 +43,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
+                              <option name="color" value="-65435" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
