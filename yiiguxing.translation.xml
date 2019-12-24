@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Desc" />
       <item value="有限公司" />
       <item value="Comma separated list of profiles that will trigger the ribbon to show" />
       <item value="CacheService generateAreaMapCache - ******缓存题库区域信息ended******" />
@@ -50,12 +51,11 @@
       <item value="Access" />
       <item value="Access Util" />
       <item value="lingyang" />
-      <item value="on Receive Event Message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="434" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CATALAN" value="1" />
