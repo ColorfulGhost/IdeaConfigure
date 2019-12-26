@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="squid:S3599" />
+        <option value="squid:S3824" />
       </set>
     </option>
   </component>
