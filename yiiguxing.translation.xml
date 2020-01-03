@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="组装" />
       <item value="Category" />
       <item value="select List" />
       <item value="categories" />
@@ -50,11 +51,10 @@
       <item value="reflect" />
       <item value="Log Record Aspect" />
       <item value="Auth Log Util" />
-      <item value="Ability Accomplishment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
+        <entry key="CHINESE" value="444" />
         <entry key="ENGLISH" value="444" />
         <entry key="ICELANDIC" value="2" />
         <entry key="FRENCH" value="2" />
